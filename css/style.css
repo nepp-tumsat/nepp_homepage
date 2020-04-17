@@ -175,7 +175,7 @@ a:hover {
 .box {
 	padding: 3%;	/*ボックス内の余白*/
 	margin-bottom: 30px !important;	/*ボックスの下に空けるスペース*/
-	background: #0a06ac;	/*背景色*/
+	background: #4169e1;	/*背景色*/
 	overflow: hidden;
 	word-break: break-all;
 	-webkit-box-shadow: 2px 2px 6px rgba(0,0,0,0.8);	/*影の設定。右・下・ぼかし幅・色(rgba)の設定。rgba値は左３つが色指定(この場合は黒)で最後の小数点が透明度。*/
