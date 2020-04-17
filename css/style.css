@@ -51,17 +51,17 @@ a:hover {
 	text-align: center;		/*文字をセンタリング*/
 }
 #menubar a {
-	border: 1px solid #0a06ac;	/*枠線の幅、線種、色*/
+	border: 1px solid #4169e1;	/*枠線の幅、線種、色*/
 	border-radius: 10px;	/*角丸のサイズ*/
 	display: block;
 	text-decoration: none;
 	padding: 10px 0px;	/*上下、左右へとる余白*/
-	color: #0a06ac;	/*文字色*/
+	color: #4169e1;	/*文字色*/
 }
 /*マウスオン時*/
 #menubar a:hover {
 	color: #fff;		/*文字色*/
-	background: #0a06ac;	/*背景色*/
+	background: #4169e1;	/*背景色*/
 }
 
 /*小さな端末用ブロック（shブロック）
@@ -100,9 +100,9 @@ a:hover {
 	font-size: 100%;
 	color: #fff;	/*文字色*/
 	background: #6b0000;	/*背景色（古いブラウザ用）*/
-	background: -webkit-gradient(linear, left top, left bottom, from(#0a06ac), to(#050357));	/*グラデーション*/
-	background: -webkit-linear-gradient(#0a06ac, #050357);	/*同上*/
-	background: linear-gradient(#0a06ac, #050357);			/*同上*/
+	background: -webkit-gradient(linear, left top, left bottom, from(#4169e1), to(#050357));	/*グラデーション*/
+	background: -webkit-linear-gradient(#4169e1, #050357);	/*同上*/
+	background: linear-gradient(#4169e1, #050357);			/*同上*/
 	border: 1px solid #050357;
 	padding: 4px 15px;	/*上下、左右への余白*/
 	border-bottom: 4px solid #050357;	/*下線の幅、線種、色*/
@@ -134,7 +134,7 @@ a:hover {
 	text-decoration: none;
 	display: block;
 	overflow: hidden;
-	background: #0a06ac;	/*背景色*/
+	background: #4169e1;	/*背景色*/
 	color: #fff;		/*文字色*/
 }
 /*マウスオンとクリック時の設定*/
@@ -331,7 +331,7 @@ ul.disc {padding: 0em 25px 1em;list-style: disc;}
 /*小さな端末用ブロック*/
 #sh {
 	display: block;	/*非表示から表示に切り替える*/
-	background: #0a06ac;	/*背景色*/
+	background: #4169e1;	/*背景色*/
 	height: 70px;	/*ブロックの高さ*/
 }
 /*小さな端末用ロゴ画像*/
